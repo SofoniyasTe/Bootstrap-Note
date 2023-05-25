@@ -82,8 +82,6 @@ From working with Bootstrap, i have learned the following:
 
 1. **Cross-Browser Compatibility**: Bootstrap is designed to be compatible with various web browsers, ensuring consistent and reliable rendering across different platforms. By using Bootstrap, I have gained knowledge about building websites that work well across different browsers and versions, reducing the need for extensive cross-browser testing and troubleshooting.
 
-![pngegg.png](pngegg.png)
-
 1. **Rapid Prototyping**: Bootstrap's ready-to-use components and responsive grid system enable rapid prototyping of websites and web applications. I learned how to leverage Bootstrap's tools to quickly create prototypes, test ideas, and iterate on our designs, speeding up the development process.
 
 ```html
